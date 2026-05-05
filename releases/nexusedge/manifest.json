@@ -1,0 +1,16 @@
+{
+  "version": "0.9.4",
+  "released": "2026-05-05T12:00:00Z",
+  "artifacts": {
+    "aarch64": {
+      "url": "https://github.com/AutomataNexus/NexusConfigurator/releases/download/v0.1.0/nexusedge-talos-daemon-aarch64",
+      "sha256": "cc7f1d23496f50f5da43c8f304548d5acca73ab963fef34f608bd281bed07c51",
+      "size_bytes": 6498712
+    },
+    "armhf": {
+      "url": "https://github.com/AutomataNexus/NexusConfigurator/releases/download/v0.1.0/nexusedge-talos-daemon-armhf",
+      "sha256": "74986b8245afcc6a7115d070a19c97777f7cd01aea184fcc1c60135a8eb6e9cb",
+      "size_bytes": 5977996
+    }
+  }
+}
